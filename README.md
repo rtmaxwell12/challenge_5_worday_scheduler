@@ -9,7 +9,7 @@ This tool helps alleviate task-management struggles every day professionals face
 ### Usage Details
 Installation is not necessary as this is a web-based application. It can be accessed via the deployment link below:
 
-(LINK GOES HERE)
+(https://rtmaxwell12.github.io/challenge_5_workday_scheduler/)
   
  Refer to screenshot below for what application looks like:
   
