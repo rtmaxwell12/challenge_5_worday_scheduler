@@ -9,8 +9,9 @@ This tool helps alleviate task-management struggles every day professionals face
 ### Usage Details
 Installation is not necessary as this is a web-based application. It can be accessed via the deployment link below:
 
-<LINK>
+(LINK GOES HERE)
   
  Refer to screenshot below for what application looks like:
   
-  
+<img width="1369" alt="screenshot" src="https://user-images.githubusercontent.com/113951402/217715916-916aa1f5-dbed-4e41-b6ad-ceb7ec59634e.png">
+
